@@ -3,11 +3,13 @@
 namespace Bulkly\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Bulkly\BufferPosting;
 
 class BufferPostingController extends Controller
 {
     public function index()
     {
-        return view('buffer_posting.index');
+        $data = BufferPosting::paginate(10);
+        return view('buffer_posting.index', compact('data'));
     }
 }

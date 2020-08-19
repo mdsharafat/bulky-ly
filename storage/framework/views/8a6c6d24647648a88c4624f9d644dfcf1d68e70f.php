@@ -7,7 +7,7 @@
         .custom_row_css{
             position: absolute;
             left: 24%;
-            top: 31%;
+            top: 18%;
             width: 78%;
         }
     </style>
@@ -37,21 +37,27 @@
                         <table class="table table-bordered" id="bufferPosting">
                             <thead>
                                 <tr>
-                                    <th>First Name</th> <th>Last Name</th> <th>Email</th> <th>Created Date</th> <th>Subscription plan</th> <!--<th>Last payment date</th> --> <th></th>
+                                    <th>Group Name</th>
+                                    <th>Group Type</th>
+                                    <th>Account Name</th>
+                                    <th>Post Text</th>
+                                    <th>Time</th>
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr>
-                                    <td>AAAA</td>
-                                    <td>BBBB</td>
-                                    <td><p style="word-break: break-all;">CCCC</p></td>
-                                    <td>DDDD</td>
-                                    <td>EEEE</td>
-                                    <td> <a href="">Edit</a> </td>
-
-                                </tr>
+                                <?php $__currentLoopData = $data; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $row): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
+                                    <tr>
+                                        <td><?php echo e($row->groupInfo->name); ?></td>
+                                        <td><?php echo e($row->groupInfo->type); ?></td>
+                                        <td><?php echo e($row->accountInfo->user->name); ?></td>
+                                        <td><?php echo e($row->post_text); ?></td>
+                                        <td><?php echo e($row->sent_at); ?></td>
+                                    </tr>
+                                <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
                             </tbody>
                         </table>
+                            <?php echo e($data->links()); ?>
+
 
 
                         </div>
@@ -71,7 +77,7 @@
         $(document).ready(function() {
             $('#bufferPosting').DataTable({
                 "searching": true,
-                "paging": true,
+                "paging": false,
                 "ordering": true
             });
         } );
