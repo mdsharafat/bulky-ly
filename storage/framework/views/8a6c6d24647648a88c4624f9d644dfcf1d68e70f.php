@@ -27,13 +27,17 @@
 
                         <ul class="list-inline">
                             <li>
-                                <a class="btn btn-primary" href="/admin/manage-user/create"> Create Account</a>
-                            </li>
-                            <li>
                                 <form>
                                     <input class="form-control" type="text" name="search" placeholder="Search">
                                     <button class="pull-right" style=" position: relative; margin-top: -27px; border: 0px; background: 0px;  padding-right: 12px; outline: none !important;"> <i class="glyphicon glyphicon-search"></i> </button>
                                 </form>
+                            </li>
+                            <li>
+                                <div>
+                                    <select name="" id="">
+                                        <option value=""></option>
+                                    </select>
+                                </div>
                             </li>
                         </ul>
 
