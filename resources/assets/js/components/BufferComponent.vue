@@ -60,7 +60,18 @@
 
 <script>
 export default {
-    
+  data() {
+    return {
+      bufferPostsData: {},
+    };
+  },
+  methods: {},
+  mounted() {
+    axios.get("/api/history").then((res) => {
+      this.bufferPostsData = res.data;
+      console.log(res.data);
+    });
+  },
 };
 </script>
 
