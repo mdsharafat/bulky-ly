@@ -2709,3 +2709,1659 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
+[2020-08-19 07:08:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:08:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:08:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:09:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:09:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:09:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:10:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:10:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:10:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:11:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:11:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:11:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:12:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:12:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:12:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:13:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:13:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:13:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:14:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:14:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:14:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:15:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:15:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:15:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:16:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:16:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:16:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:17:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:17:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:17:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:18:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:18:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:18:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:19:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:19:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:19:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:20:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:20:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:20:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:21:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:21:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:21:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:22:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:22:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:22:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:23:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:23:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:23:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:24:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:24:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:24:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:25:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:25:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:25:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:26:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:26:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:26:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:27:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:27:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:27:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:28:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:28:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:28:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:29:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:29:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:29:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:30:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:30:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:30:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:31:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:31:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:31:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:32:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:32:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:32:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:33:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:33:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:33:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:34:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:34:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:34:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:35:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:35:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:35:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:36:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:36:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:36:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:37:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:37:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:37:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:38:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:38:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:38:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:39:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:39:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:39:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:40:40] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:40:40] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:40:40] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:41:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:41:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:41:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:42:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:42:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:42:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-08-19 07:43:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:43:39] development.ERROR: Call to undefined method Illuminate\Log\Writer::setHandlers() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to undefined method Illuminate\\Log\\Writer::setHandlers() at Command line code:1)
+[stacktrace]
+#0 [internal function]: VscodeLaravelExtraIntellisenseProvider->boot()
+#1 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array()
+#2 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(87): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#3 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(31): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Container/Container.php(549): Illuminate\\Container\\BoundMethod::call()
+#5 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(792): Illuminate\\Container\\Container->call()
+#6 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Foundation\\Application->bootProvider()
+#7 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#8 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): array_walk()
+#9 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#10 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(213): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#11 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(296): Illuminate\\Foundation\\Application->bootstrapWith()
+#12 /var/www/html/bulk.ly/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(119): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#13 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#14 {main}
+"} 
+[2020-08-19 07:43:39] development.ERROR: Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught Error: Class 'Arr' not found in Command line code:1
+Stack trace:
+#0 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
