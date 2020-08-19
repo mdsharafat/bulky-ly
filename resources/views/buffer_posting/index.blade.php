@@ -3,13 +3,16 @@
     <link href="{{ asset('css/dataTables.bootstrap4.min.css') }}" rel="stylesheet"/>
     <link href="{{ asset('css/dataTables.foundation.min.css') }}" rel="stylesheet"/>
     <link href="{{ asset('css/jquery.dataTables.min.css') }}" rel="stylesheet"/>
-
+    <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet"/>
     <style>
         .custom_row_css{
             position: absolute;
             left: 24%;
             top: 18%;
             width: 78%;
+        }
+        .pagination {
+            float: right;
         }
     </style>
 @endsection
@@ -25,13 +28,17 @@
 
                         <ul class="list-inline">
                             <li>
-                                <a class="btn btn-primary" href="/admin/manage-user/create"> Create Account</a>
-                            </li>
-                            <li>
                                 <form>
                                     <input class="form-control" type="text" name="search" placeholder="Search">
                                     <button class="pull-right" style=" position: relative; margin-top: -27px; border: 0px; background: 0px;  padding-right: 12px; outline: none !important;"> <i class="glyphicon glyphicon-search"></i> </button>
                                 </form>
+                            </li>
+                            <li>
+                                <div>
+                                    <select name="" id="">
+                                        <option value=""></option>
+                                    </select>
+                                </div>
                             </li>
                         </ul>
 
@@ -76,9 +83,9 @@
     <script type="text/javascript">
         $(document).ready(function() {
             $('#bufferPosting').DataTable({
-                "searching": true,
+                "searching": false,
                 "paging": false,
-                "ordering": true
+                "ordering": false
             });
         } );
     </script>

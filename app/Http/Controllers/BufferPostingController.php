@@ -4,6 +4,7 @@ namespace Bulkly\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Bulkly\BufferPosting;
+use DB;
 
 class BufferPostingController extends Controller
 {

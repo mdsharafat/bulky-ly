@@ -2,13 +2,16 @@
     <link href="<?php echo e(asset('css/dataTables.bootstrap4.min.css')); ?>" rel="stylesheet"/>
     <link href="<?php echo e(asset('css/dataTables.foundation.min.css')); ?>" rel="stylesheet"/>
     <link href="<?php echo e(asset('css/jquery.dataTables.min.css')); ?>" rel="stylesheet"/>
-
+    <link href="<?php echo e(asset('css/bootstrap.min.css')); ?>" rel="stylesheet"/>
     <style>
         .custom_row_css{
             position: absolute;
             left: 24%;
             top: 18%;
             width: 78%;
+        }
+        .pagination {
+            float: right;
         }
     </style>
 <?php $__env->stopSection(); ?>
@@ -76,9 +79,9 @@
     <script type="text/javascript">
         $(document).ready(function() {
             $('#bufferPosting').DataTable({
-                "searching": true,
+                "searching": false,
                 "paging": false,
-                "ordering": true
+                "ordering": false
             });
         } );
     </script>
